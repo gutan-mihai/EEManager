@@ -20,7 +20,7 @@ void save();
 // read data from eeprom to reference
 void read();
 
-// remove all data from eeprom
+// remove saved data from eeprom
 void reset();
 
 // given start address in eeprom
